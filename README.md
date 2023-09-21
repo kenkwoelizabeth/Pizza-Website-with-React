@@ -7,6 +7,7 @@ This project marks my inaugural venture into creating a React application. It ha
 ## Available Scripts
 
 In the project directory, you can run:
-
+### git clone https://github.com/kenkwoelizabeth/Pizza-Website-with-React.git
+### npm install
 ### `npm start`
-# Pizza-Website-with-React
+
